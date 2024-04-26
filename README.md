@@ -5,9 +5,16 @@ YouTube Video Downloader is an application to download videos from YouTube. This
 
 Before starting build this project we have to use basics of python and below two packages:-
 
-<h5><b>TKinter</h5></b>
+<h5>TKinter</h5>
 Tkinter is a standard GUI library and it is one of the easiest ways to build a GUI application.
 
 <h5>Pytube</h5>
-Pytube is used for downloading videos from youtube.
+Pytube is used for downloading the videos from youtube.
+
+<h3>Steps to Install Required Packages:</h3><hr>
+
+To install tkinter module use the command:
+
+<b>pip install tkinter</b>
+
 
