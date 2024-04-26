@@ -13,8 +13,10 @@ Pytube is used for downloading the videos from youtube.
 
 <h3>Steps to Install Required Packages:</h3><hr>
 
-To install tkinter module use the command:
+To install tkinter and pytube module use below command on the command prompt:
 
 <b>pip install tkinter</b>
+
+<b>pip install pytube</b>
 
 
