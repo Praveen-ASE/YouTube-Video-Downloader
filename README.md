@@ -52,8 +52,10 @@ First step is that open youtube through the web browser.When youtube has opened 
 
 Then go on command prompt for run project when project has successfully run and display as GUI then paste the link of video in link field and browse the location for  download and click on download button.
 
-![Screenshot (29)](https://github.com/Praveen-ASE/YouTube-Video-Downloader/assets/148997369/b3eaa833-3dcd-4962-8281-df3c4ef14338)
-![Screenshot (28)](https://github.com/Praveen-ASE/YouTube-Video-Downloader/assets/148997369/1c57265e-5c7d-46e4-9c53-94a95cd4ac0e)
+![Screenshot (28)](https://github.com/Praveen-ASE/YouTube-Video-Downloader/assets/148997369/9874bb7f-78cc-4997-902a-1890b0db7ced)
+
+![Screenshot (29)](https://github.com/Praveen-ASE/YouTube-Video-Downloader/assets/148997369/4d6859de-9c00-4669-90ca-6d49ccc8fc7e)
+
 
 After sometime video will be downloaded and show with pop up message box successfully download.
 
