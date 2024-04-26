@@ -21,6 +21,11 @@ To install tkinter and pytube module use below command on the command prompt:
 
 <h3>Technology Used:</h3><hr>
 
-<p><li>Programming Language : Python</li></p>
+<p><li>Programming Language :  Python</li></p>
+<p><li>Version :  Python 3.10</li></p>
+<p><li>Tools Used :  Pytube and Tkinter</li></p>
+<p><li>Operating System :  Windows</li></p>
+
+
 
 
